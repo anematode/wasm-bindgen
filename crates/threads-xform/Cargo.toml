@@ -14,7 +14,7 @@ rust-version = "1.57"
 
 [dependencies]
 anyhow = "1.0"
-walrus = { git = "https://github.com/rustwasm/walrus", branch = "update" }
+walrus = { git = "https://github.com/anematode/walrus", branch = "update" }
 wasm-bindgen-wasm-conventions = { path = "../wasm-conventions", version = "=0.2.92" }
 
 [dev-dependencies]

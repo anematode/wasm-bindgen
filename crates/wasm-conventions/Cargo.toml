@@ -11,5 +11,5 @@ edition = "2018"
 rust-version = "1.57"
 
 [dependencies]
-walrus = { git = "https://github.com/rustwasm/walrus", branch = "update" }
+walrus = { git = "https://github.com/anematode/walrus", branch = "update" }
 anyhow = "1.0"

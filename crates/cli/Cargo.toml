@@ -33,7 +33,7 @@ ureq = { version = "2.7", default-features = false, features = [
     "brotli",
     "gzip",
 ] }
-walrus = { git = "https://github.com/rustwasm/walrus", branch = "update" }
+walrus = { git = "https://github.com/anematode/walrus", branch = "update" }
 wasm-bindgen-cli-support = { path = "../cli-support", version = "=0.2.92" }
 wasm-bindgen-shared = { path = "../shared", version = "=0.2.92" }
 
